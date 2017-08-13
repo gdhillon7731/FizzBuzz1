@@ -17,7 +17,7 @@ public class FizzBuzzTest {
 
     }
 
-    @Test
+    @Test h
     public void whenFizzBuzzPassedATwoItReturnsTwo() {
         assertEquals("2", fizzBuzz.fizz(2));
 
