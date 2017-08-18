@@ -16,4 +16,3 @@ target/
 *.class
 #hibernate
 hibernate.cfg.xml
-hello
